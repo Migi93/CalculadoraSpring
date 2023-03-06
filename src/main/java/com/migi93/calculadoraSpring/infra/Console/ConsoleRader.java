@@ -1,11 +1,10 @@
 package com.migi93.calculadoraSpring.infra.Console;
 
 import com.migi93.calculadoraSpring.service.CalculadoraService;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Scanner;
 
-@SpringBootApplication
+
 public class ConsoleRader {
     CalculadoraService calculadoraService;
 

@@ -1,9 +1,8 @@
 package com.migi93.calculadoraSpring.repository.impl;
 
 import com.migi93.calculadoraSpring.repository.CalculadoraRepository;
-import org.springframework.stereotype.Repository;
 
-@Repository
+
 public class CalculadoraRepositoryMemory implements CalculadoraRepository {
 
 
